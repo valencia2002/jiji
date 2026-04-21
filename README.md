@@ -4,4 +4,4 @@ Este proyecto se encarga de manejar los planes de
 
 
 
-estos cambios son nuevos
+estos cambios son nuevos desde el git hub
