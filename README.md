@@ -1,11 +1,7 @@
 # Objetivos de la repositorio
 
-Este proyecto se encarga de manejar los planes de la liga de la justicia
+Este proyecto se encarga de manejar los planes de
 
 
-## Notas
-Pueden hacer lo que quieran...
 
-actualizado ddesde github""
-
-por si acaso
+estos cambios son nuevos
